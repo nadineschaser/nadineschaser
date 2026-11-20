@@ -1,16 +1,17 @@
-## Hi there 👋
+# Nadine Schaser
 
-<!--
-**nadineschaser/nadineschaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Release Train Engineer | Teams, delivery & corporate transformation
 
-Here are some ideas to get you started:
+I’m a Release Train Engineer (RTE) who cares about how teams work together—and how organizations make meaningful change stick. I help create the clarity, collaboration, and conditions teams need to deliver value while contributing to broader corporate transformation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I focus on
+
+- **Connected teams:** building alignment across teams and stakeholders, and making collaboration part of the everyday work.
+- **Effective delivery:** facilitating planning and coordination, surfacing dependencies and impediments, and supporting a steady focus on outcomes.
+- **Sustainable transformation:** helping connect organizational change with the realities of the people doing the work, and using feedback to improve how we operate.
+
+### How I work
+
+I take a people-centered, systems-minded approach. I value open communication, shared ownership, continuous learning, and practical improvement over change for its own sake. My goal is to help teams and leaders build ways of working that are both effective and sustainable.
+
+I’m interested in connecting with people who are strengthening teams, improving delivery, and shaping thoughtful corporate transformation.
